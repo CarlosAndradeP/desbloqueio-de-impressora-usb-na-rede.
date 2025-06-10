@@ -9,7 +9,7 @@ Esta ferramenta automatiza a correção necessária, tornando o processo rápido
 Como Usar 🛠️
 O uso do programa é extremamente simples.
 
-Baixe o arquivo Impressoras.exe da seção Releases (substitua com o link real).
+Baixe o arquivo Impressoras.exe da seção Releases https://github.com/CarlosAndradeP/desbloqueio-de-impressora-usb-na-rede./releases/.
 
 Execute como Administrador: Clique com o botão direito no arquivo e selecione "Executar como administrador". Isso é essencial para que o programa tenha permissão para alterar o Registro do Windows.
 
